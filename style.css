@@ -1,0 +1,12 @@
+body {
+    background-image: url("s22-3995-fine-scaled-e1667592920852.jpg");
+    background-color: aquamarine
+    backgriund-size:cover;
+
+}
+.botão{
+    background-color: salmon;(255,0,128) 
+    padding-inline-start: display: 10px;20px>
+    cursor:pointer
+    ::view-transition:0.3 aese;
+
