@@ -8,7 +8,7 @@ body {
     background-color: rgb(255, 0, 128) rgb(241, 123, 192);
     color:rgb(255, 127, 144);
     border;:none;
-    padding: 8px 5%;
+    padding: 6px 5px;
     cursor: pointer;
     transition: 0.3s aese;
 }
